@@ -1,4 +1,4 @@
-# Precision Imaging
+# CloudTriage AI: Medical Imaging & Nodule Detection Platform
 
 A Windows-first, cloud-ready prototype for AI-assisted imaging triage. This is clinical decision support only: it does not provide a medical diagnosis and does not replace professional clinical judgment.
 
